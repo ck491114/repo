@@ -6,3 +6,6 @@ Yar har matey, I be a pirate and I've taken control of this here ship!
 
 No pirates allowed, only ninjas!
    - Ninja
+
+Watch it or I'll make you walk the plank!
+   - Pirate
