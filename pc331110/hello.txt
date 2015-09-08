@@ -1,3 +1,5 @@
-Hello, I am Phillip. I am enjoying this class and look forward to building great app
 
-This is a change, maybe jake can handle it.s
+Hello, I am Phillip. I am enjoying this class and look forward to building great apps
+
+This is the edit made to Phil's "hello.txt" made by Jacob Carlsen
+
