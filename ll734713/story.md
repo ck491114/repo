@@ -1,3 +1,3 @@
 This is my story.
 
-I'm Logan. I am taking cs3560.
+I'm Logan. I am taking cs3560. update
