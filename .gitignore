@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 alsjdfja
+=======
+.*
+*~
+.DS_Store
+Thumbs.db
+*.obj
+*.o
+a.out
+core
+>>>>>>> 6fe3f875a641a084362e198cf4f0ccb8a54ce71c
