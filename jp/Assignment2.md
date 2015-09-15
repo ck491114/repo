@@ -14,3 +14,7 @@
 James
 Petersen
 
+
+Lebron James net worth: $126 million
+Bill Gates net worth: $80.2 Billion
+Nerds win.
