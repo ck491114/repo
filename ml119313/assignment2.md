@@ -1,2 +1,6 @@
 Mingda Li
-P100179772
+three more lines
+1
+2
+3
+git commit -m "three more lines assignment2.md"
