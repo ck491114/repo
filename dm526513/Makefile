@@ -2,6 +2,6 @@ TravelPlan: Weather
 	@echo Update the plan
 	touch TravelPlan
 
-now:
+now: TravelPlan
 	@echo Start the car
 
