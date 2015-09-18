@@ -1,5 +1,6 @@
 TravelPlan: Weather
 	@echo Update the plan
+	@echo $< $@
 	cd liuc;  touch TravelPlan
 
 now:
